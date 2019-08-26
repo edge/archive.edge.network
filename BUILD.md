@@ -4,7 +4,7 @@ Instructions for building the `archive.edge.network` apt repository.
 
 ## Storing your `.deb` files
 
-Add Edge deb files to the public Git repository at [https://github.com/edge/archive.edge.network](https://github.com/edge/archive.edge.network) under the `amd64` folder.
+Add Edge deb files to the public Git repository at [https://github.com/edge/archive.edge.network](https://github.com/edge/archive.edge.network) under the appropriate architechture folder (e.g. `amd64`).
 
 ## Building the repository on `archive.edge.network`
 
