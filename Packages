@@ -1,0 +1,16 @@
+Package: helloworld
+Version: 1.0-1
+Architecture: i386
+Maintainer: Your Name <you@email.com>
+Depends: libsomethingorrather (>= 1.2.13), anotherDependency (>= 1.2.6)
+Filename: ./amd64/helloworld.deb
+Size: 828
+MD5sum: b809d3a42ee88b58ad3b9278dfc59033
+SHA1: 3a5c32cc2aa92d0fc81fe6c0d129d34b905a1a2a
+SHA256: 4480bb0ecfa6340fa52fe3de4ad92f98b1a321a6aede78b0951b97d204d705f5
+Section: base
+Priority: optional
+Description: Hello World
+ When you need some sunshine, just run this
+ small program!
+
