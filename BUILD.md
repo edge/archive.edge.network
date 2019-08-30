@@ -16,9 +16,9 @@ Add Edge deb files to the public Git repository at [https://github.com/edge/arch
 
 	$ git pull origin master
 
-### Update the Packages files
+### Update the Packages files (setting `-m` for multiversion)
 
-	$ sudo dpkg-scanpackages . > Packages
+	$ sudo dpkg-scanpackages -m . > Packages
 
 ### gZip the updated Packages file
 
