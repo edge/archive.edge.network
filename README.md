@@ -8,7 +8,7 @@ A simple guide to using this repository to install Edge nodes on your Linux base
 
 ### Import the public key for the repository
 
-	$ wget -q -O - https://archive.edge.network/KEY.gpg | apt-key add -
+	$ wget -q -O - https://archive.edge.network/KEY.gpg | sudo apt-key add -
 
 ### Update Apt
 
